@@ -1,0 +1,24 @@
+{
+  "name": "bitstarz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "allgames": "cypress run --spec cypress/e2e/VisualTests/Games/*.cy.js",
+    "bj": "cypress run --spec cypress/e2e/VisualTests/Games/BlackJack.cy.js",
+    "allcomp": "cypress run --spec cypress/e2e/VisualTests/Components/*.cy.js",
+    "rarcomp": "cypress run --spec cypress/e2e/VisualTests/Components/RiskAndRowComponent.cy.js",
+    "allgamesfox": "cypress run  –browser firefox --spec cypress/e2e/VisualTests/Games/*.cy.js",
+    "allgamesedge": "cypress run  –browser edge --spec cypress/e2e/VisualTests/Games/*.cy.js",
+    "plinko": "cypress run --spec cypress/e2e/VisualTests/Games/Plinko.cy.js",
+    "crash": "cypress run --spec cypress/e2e/VisualTests/Games/Crash.cy.js",
+    "slot": "cypress run --spec cypress/e2e/VisualTests/Games/Slot.cy.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.13.0",
+    "cypress-image-diff-js": "^1.24.0"
+  }
+}

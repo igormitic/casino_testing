@@ -1,0 +1,25 @@
+
+    {
+      "name":"Blackjack",
+      "currency":[
+      {"select":"Euro","value":"EUR"},
+      {"select":"US Dollar","value":"USD"},
+      {"select":"Canadian Dollar","value":"CAD"},
+      {"select":"Australian Dollar","value":"AUD"},
+      {"select":"Norwegian Krone","value":"NOK"},
+      {"select":"Russian Ruble","value":"RUB"},
+      {"select":"Polish Zloty","value":"PLN"},
+      {"select":"New Zealand Dollar","value":"NZD"},
+      {"select":"Japanese Yen","value":"JPY"},
+      {"select":"Brazilian Real","value":"BRL"},
+      {"select":"Bitcoin","value":"BTC"},
+      {"select":"Litecoin","value":"LTC"},
+      {"select":"Dogecoin","value":"DOG"},
+      {"select":"Etherium","value":"ETH"},
+      {"select":"Bitcoin Cash","value":"BCH"},
+      {"select":"Tether","value":"USDT"},
+      {"select":"FunFair","value":"FUN"}
+    ]
+    }
+  
+  

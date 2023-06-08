@@ -1,0 +1,55 @@
+[
+  {
+    "name":"Blackjack",
+    "currency":[
+      {"select":"Euro","value":"EUR"}
+   
+  ]
+  },
+  
+  {
+      "name":"Plinko",
+      "currency":[
+        {"select":"Euro","value":"EUR"}
+     
+    ]
+    },
+    {
+      "name":"Dice",
+      "currency":[
+        {"select":"Euro","value":"EUR"}
+     
+    ]
+    },
+    {
+      "name":"Crash",
+      "currency":[
+        {"select":"Euro","value":"EUR"}
+     
+    ]
+    },
+    {
+      "name":"Wheel",
+      "currency":[
+        {"select":"Euro","value":"EUR"}
+     
+    ]
+    },
+  
+    {
+    "name":"Limbo",
+    "currency":[
+      {"select":"Euro","value":"EUR"}
+   
+  ]
+  },
+  {
+    "name":"Slot",
+    "currency":[
+      {"select":"Euro","value":"EUR"}
+   
+  ]
+  }
+
+]
+  
